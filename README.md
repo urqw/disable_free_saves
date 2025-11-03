@@ -1,6 +1,6 @@
 # Disable Free Saves
 
-*Version from 2017-01-21 for UrqW 1.0.*
+*Version from 2025-11-03 for UrqW 1.1, 1.0.*
 
 A plugin for [UrqW](https://github.com/urqw/UrqW) that disables free saves.
 
