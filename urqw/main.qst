@@ -1,3 +1,6 @@
-:1
-pln Example of disabled saves.
+:main
+pln As you can see, there is no button to save the game on the toolbar.
+pln The system showed this text #count_main + 1$ time(s).
+btn main, Encrease the counter
+btn save & cls & goto main, Create autosave
 end
