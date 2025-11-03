@@ -1,6 +1,6 @@
 /**
- * Copyright (C) 2017 Akela <akela88@bk.ru>
- * SPDX-License-Identifier: GPL-2.0-or-later
+ * Written in 2017 by Akela <akela88@bk.ru>
+ * SPDX-License-Identifier: CC0-1.0
  */
 
 $('#save').off('click');
