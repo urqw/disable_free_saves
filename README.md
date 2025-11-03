@@ -1,23 +1,13 @@
-This project is documented and conducted in Russian
-due to its focus on a Russian-speaking audience.
+# Disable Free Saves
 
-<div lang="ru">
+*Version from 2017-01-21 for UrqW 1.0.*
 
-# Disable free saves
+A plugin for [UrqW](https://github.com/urqw/UrqW) that disables free saves.
 
-*Версия от 21.01.2017 для UrqW 1.0.*
+This plugin disables saving via the toolbar button with the image of a floppy disk ("Save game") and hides it. However, autosaves initiated from the game code using the `save` operator continue to work.
 
-Плагин для [UrqW](https://github.com/urqw/UrqW),
-который блокирует сохранения через кнопку (дискета) и скрывает её.
+The plugin and an example of its use can be found in the urqw directory. A demo of the plugin can be viewed at <https://urqw.github.io/UrqW#disable_free_saves>
 
-Вы можете заархивировать папку с плагином и тестовым файлом .qst,
-добавить этот архив в UrqW как любую другую игру
-и на практике ознакомиться с работой плагина.
+For other UrqW plugins, see the [common repository](https://github.com/urqw/plugins).
 
-Другие плагины для UrqW см. в
-[общем репозитории](https://github.com/urqw/plugins).
-
-Однако будьте осторожны: не все плагины UrqW могут быть легко скомбинированы
-посредством копирования их кода в один файл.
-
-</div>
+Be careful, though: not all UrqW plugins can be easily combined.
