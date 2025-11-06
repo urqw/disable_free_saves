@@ -1,4 +1,5 @@
 /**
+ * Disable Free Saves - plugin for UrqW <https://github.com/urqw/disable_free_saves>
  * Written in 2017 by Akela <akela88@bk.ru>
  * SPDX-License-Identifier: CC0-1.0
  */
